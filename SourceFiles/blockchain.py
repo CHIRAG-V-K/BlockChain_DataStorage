@@ -6,14 +6,7 @@
 {Blockchain DataStorage IPFS Using }
 """
 
-__author__ = 'sabarish'
-__copyright__ = 'Copyright 2022, Blockchain '
-__credits__ = ['EnergeaTechnolabs']
-__license__ = 'GNU'
-__version__ = '1.0'
-__maintainer__ = 'energeatechsolutions'
-__email__ = 'info@energiasolutions.in'
-__status__ = 'Completed'
+
 
 import time
 import hashlib
